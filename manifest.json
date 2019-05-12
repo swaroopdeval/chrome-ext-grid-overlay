@@ -1,0 +1,21 @@
+{
+    "name": "Grid Overlay",
+    "version": "1.0",
+    "description": "An extension that creates grid overlay to help developing web applications",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/grid_16.png",
+            "32": "images/grid_32.png",
+            "48": "images/grid_48.png",
+            "128": "images/grid_128.png"
+        }
+    },
+    "icons": {
+        "16": "images/grid_16.png",
+        "32": "images/grid_32.png",
+        "48": "images/grid_48.png",
+        "128": "images/grid_128.png"
+    },
+    "manifest_version": 2
+}
